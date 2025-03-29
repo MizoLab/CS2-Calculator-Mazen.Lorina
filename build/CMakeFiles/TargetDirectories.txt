@@ -1,0 +1,3 @@
+C:/Users/Mazen/desktop/work/CS2Lab/CS2-Calculator-Mazen.Lorina/build/CMakeFiles/calculator.dir
+C:/Users/Mazen/desktop/work/CS2Lab/CS2-Calculator-Mazen.Lorina/build/CMakeFiles/edit_cache.dir
+C:/Users/Mazen/desktop/work/CS2Lab/CS2-Calculator-Mazen.Lorina/build/CMakeFiles/rebuild_cache.dir
